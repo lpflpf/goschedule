@@ -1,0 +1,13 @@
+{
+    "Id" : "sayHello",
+    "GroupId" : "test",
+    "ShardingTotalCount" : 10,
+    "Sharding": {
+        "1": "hello",
+        "2": "world",
+        "3": "baidu",
+        "4": "sougou",
+        "5": "alibaba"
+    },
+    "Description": "say hello test"
+}
